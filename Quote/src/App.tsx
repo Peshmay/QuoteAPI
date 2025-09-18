@@ -1,4 +1,4 @@
-import Card from "./components/card"
+import Card from "./components/card.js"
 
 
 
@@ -11,3 +11,4 @@ function App() {
 }
 
 export default App
+
